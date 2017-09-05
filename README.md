@@ -41,7 +41,7 @@ Load the library in browser
 npm run build
 ```
 
-Load the generated javascript file - `iotf-client-bundle.js` or `iotf-client-bundle-min.js` from the `dist` directory to your web application. Check out the [sample](https://github.com/ibm-watson-iot/iot-nodejs/tree/master/samples/WebApplicationSample) on how to use the generated library in your web application. 
+Load the generated javascript file - `iotf-client-bundle.js` or `iotf-client-bundle-min.js` from the `dist` directory to your web application. Check out the [sample](https://github.com/ibm-watson-iot/iot-nodejs/tree/master/samples/WebApplicationSample) on how to use the generated library in your web application.
 
 Supported Features
 ------------------
@@ -1031,4 +1031,6 @@ gatewayClient.on('connect', function(){
 APIs
 ========
 
-The API documentation can be found [here](https://github.com/ibm-messaging/iot-nodejs/blob/master/samples/api.rst).
+The API documentation can be found [here](./samples/api.rst).
+
+The [Data Management](https://console.bluemix.net/docs/services/IoT/GA_information_management/ga_im_device_twin.html#device_twins) APIs documentation can be found [here](./DataManagement_APIs.md)
