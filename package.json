@@ -53,4 +53,5 @@
                 "url": "git+https://github.com/ibm-watson-iot/iot-nodejs.git"
         },
         "license": "EPL-1.0"
+         "node-red-contrib-ibm-watson-iot":"0.x"
 }
